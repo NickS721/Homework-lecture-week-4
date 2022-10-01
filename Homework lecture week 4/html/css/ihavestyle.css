@@ -1,0 +1,46 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+@font-face{
+	src: url(Downloads/NotoSansJP-Black.otf);
+	font-family: NotoSansJP-Black;
+}
+font-face{
+	src: url(Downloads/Silkscreen-Regular.ttf)
+	font-family: Silkscreen-Regular;
+}
+P
+{
+	color: #FFC0CB;
+	font-family: Veranda;
+}
+
+headers
+{
+	color: #CCFFCC;
+	font-family:'roboto';
+}
+table
+{
+	color: #00B9F4;
+	font-family: NotoSansJP-Black;
+}
+th
+{
+	font-style: bold;
+}
+tr
+{
+	font-style: italic;
+}
+legend	
+{
+	color: #008000;
+	font-family:;
+}
+body
+{
+	background-color: #FFF9FF;
+}
+
+
